@@ -1,0 +1,16 @@
+C:\Users\Artyr\source\repos\InCamp21TestTask\bin\Debug\net5.0\InCamp21TestTask.exe
+C:\Users\Artyr\source\repos\InCamp21TestTask\bin\Debug\net5.0\InCamp21TestTask.deps.json
+C:\Users\Artyr\source\repos\InCamp21TestTask\bin\Debug\net5.0\InCamp21TestTask.runtimeconfig.json
+C:\Users\Artyr\source\repos\InCamp21TestTask\bin\Debug\net5.0\InCamp21TestTask.runtimeconfig.dev.json
+C:\Users\Artyr\source\repos\InCamp21TestTask\bin\Debug\net5.0\InCamp21TestTask.dll
+C:\Users\Artyr\source\repos\InCamp21TestTask\bin\Debug\net5.0\ref\InCamp21TestTask.dll
+C:\Users\Artyr\source\repos\InCamp21TestTask\bin\Debug\net5.0\InCamp21TestTask.pdb
+C:\Users\Artyr\source\repos\InCamp21TestTask\obj\Debug\net5.0\InCamp21TestTask.csproj.AssemblyReference.cache
+C:\Users\Artyr\source\repos\InCamp21TestTask\obj\Debug\net5.0\InCamp21TestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artyr\source\repos\InCamp21TestTask\obj\Debug\net5.0\InCamp21TestTask.AssemblyInfoInputs.cache
+C:\Users\Artyr\source\repos\InCamp21TestTask\obj\Debug\net5.0\InCamp21TestTask.AssemblyInfo.cs
+C:\Users\Artyr\source\repos\InCamp21TestTask\obj\Debug\net5.0\InCamp21TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Artyr\source\repos\InCamp21TestTask\obj\Debug\net5.0\InCamp21TestTask.dll
+C:\Users\Artyr\source\repos\InCamp21TestTask\obj\Debug\net5.0\ref\InCamp21TestTask.dll
+C:\Users\Artyr\source\repos\InCamp21TestTask\obj\Debug\net5.0\InCamp21TestTask.pdb
+C:\Users\Artyr\source\repos\InCamp21TestTask\obj\Debug\net5.0\InCamp21TestTask.genruntimeconfig.cache
