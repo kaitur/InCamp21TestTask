@@ -1,4 +1,4 @@
-﻿using System;
+﻿using InCamp21TestTask.processors;
 
 namespace InCamp21TestTask
 {
@@ -6,7 +6,7 @@ namespace InCamp21TestTask
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+             new TransformTable("InputFile.csv").TableFormation();
         }
     }
 }

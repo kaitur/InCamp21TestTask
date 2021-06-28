@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gr71XZZBf4056kLIJPW+FGDOopJz8ND5H7Z0lutc3d8cxgY2kdOgSWdV1xyd0Lect22BCTji/cD+ED7bSqmzAw==",
+  "dgSpecHash": "w2LE/BdMpTCnkMCMMXYC8cVSZSSeTqJvvRkJC10FlSsvuDSrXi/n0rxQQFxTiPUrGDkYO1HJVSuEy/OyyQniBg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Artyr\\source\\repos\\InCamp21TestTask\\InCamp21TestTask.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Artyr\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512"
+    "C:\\Users\\Artyr\\.nuget\\packages\\csvhelper\\19.0.0\\csvhelper.19.0.0.nupkg.sha512",
+    "C:\\Users\\Artyr\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

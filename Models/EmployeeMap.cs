@@ -1,7 +1,6 @@
-using System;
 using CsvHelper.Configuration;
 
-namespace InCamp21TestTask{
+namespace InCamp21TestTask.Models{
     sealed class EmployeeMap : ClassMap<Employee>{
        public EmployeeMap(){
             Map(m => m.Name).Name("Employee Name");

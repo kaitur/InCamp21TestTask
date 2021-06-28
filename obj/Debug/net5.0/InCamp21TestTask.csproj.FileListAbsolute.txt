@@ -14,3 +14,5 @@ C:\Users\Artyr\source\repos\InCamp21TestTask\obj\Debug\net5.0\InCamp21TestTask.d
 C:\Users\Artyr\source\repos\InCamp21TestTask\obj\Debug\net5.0\ref\InCamp21TestTask.dll
 C:\Users\Artyr\source\repos\InCamp21TestTask\obj\Debug\net5.0\InCamp21TestTask.pdb
 C:\Users\Artyr\source\repos\InCamp21TestTask\obj\Debug\net5.0\InCamp21TestTask.genruntimeconfig.cache
+C:\Users\Artyr\source\repos\InCamp21TestTask\bin\Debug\net5.0\CsvHelper.dll
+C:\Users\Artyr\source\repos\InCamp21TestTask\obj\Debug\net5.0\InCamp21TestTask.csproj.CopyComplete
